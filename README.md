@@ -2,7 +2,7 @@
 
 Actually learning git.
 
-##Topics
+## Topics
 git pull
 git clone
 git push
