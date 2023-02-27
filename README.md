@@ -13,3 +13,7 @@ This repository explains several git commands from INFOTC 4320 - Software Engine
 ### Pulling from a Repository to a Clone:
 1. In the VS Code terminal, enter **git pull**
 2. This will download any changes from the repository
+> For help overriding files, go to this link [reddit: How do I force "git pull" to overwrite local files?](https://stackoverflow.com/questions/1125968/how-do-i-force-git-pull-to-overwrite-local-files)
+
+### Pushing to a Repository from VS Code
+1. 
