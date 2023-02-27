@@ -3,6 +3,5 @@
 Actually learning git.
 
 ## Topics
-git pull
-git clone
-git push
+
+- ### Cloning a Repository
