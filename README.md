@@ -20,6 +20,7 @@ This repository explains several git commands from INFOTC 4320 - Software Engine
 2. This will send a message that has the status of the repository
 - Modified: A file from the repository that you have edited locally but not pushed to the repository
 - Untracked: A file that was created locally and the repository does not possess the file at all
+- Various other types
 
 ### Adding Files to a Repository
 1. In the VS Code terminal, enter ***git add [fileName.type]***
@@ -43,4 +44,3 @@ This repository explains several git commands from INFOTC 4320 - Software Engine
 >    AddKeysToAgent yes
 >    UseKeychain yes
 >    IdentityFile ~/.ssh/id_ed25519
-9. 
