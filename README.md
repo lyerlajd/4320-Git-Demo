@@ -26,5 +26,6 @@ This repository explains several git commands from INFOTC 4320 - Software Engine
 > **git add .** will add all files in the current directory
 
 ### Committing Changes to a Repository
-1. In the VS Code terminal, enter **git commit -m "title" -m "desciption"
+1. In the VS Code terminal, enter **git commit -m "title" -m "desciption"**
 > Each commit needs at least one -m message
+2. Finally, in the VS Code terminal, enter **git push** to push your local repository to the one on GitHub
